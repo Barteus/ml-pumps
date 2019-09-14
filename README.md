@@ -7,7 +7,6 @@ Open points:
 
 Results:
 - nie chce mieć nanów
-- longitude=0 OK check (równik )
 - NLP (nltk lib) - kolumny funder itp (tokenize)
-- gps add data
+- gps height add data
 - remove categories which has less than 100
