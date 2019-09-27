@@ -1,12 +1,9 @@
 # ml-pumps
 
 Open points:
-- introduce Categories when importing dataset
-- water_quality - extract abonded or not as new feature?
-- how to handle tree structure?
+- introduce Categories when importing datase
 
 Results:
-- nie chce mieć nanów
-- NLP (nltk lib) - kolumny funder itp (tokenize)
+- NLP (nltk lib) - tokenize columns like funder to extract paterns
 - gps height add data
-- remove categories which has less than 100
+- remove categories which has less than 100 examples
